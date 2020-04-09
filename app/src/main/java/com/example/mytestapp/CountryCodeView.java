@@ -69,6 +69,7 @@ public class CountryCodeView extends AppCompatActivity {
                                     }
                                 CountryCodes data= new CountryCodes(country_x,code_x);
                                 Code_List.add(data);
+                                adapter.notifyDataSetChanged();
                             }
                             catch (JSONException e) {
                                 e.printStackTrace();
