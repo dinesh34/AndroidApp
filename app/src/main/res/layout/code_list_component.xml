@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:background="#E6E6D8">
+
+        <TextView
+            android:id="@+id/country"
+            android:layout_width="167dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:gravity="left"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:hint="Sri Lanka"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/country_code"
+            android:layout_width="167dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginBottom="-2dp"
+            android:textSize="15dp"
+            android:gravity="center_horizontal"
+            android:hint="+94"
+            android:textColor="#000000" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

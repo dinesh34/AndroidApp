@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778246694692",
+    "firebase_url": "https://dinesh-test-project-1624c.firebaseio.com",
+    "project_id": "dinesh-test-project-1624c",
+    "storage_bucket": "dinesh-test-project-1624c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778246694692:android:b3cfb42dd2ff34a649f5b1",
+        "android_client_info": {
+          "package_name": "com.example.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778246694692-5h3fmbv2ts2bnq9ij2pn6c7e324q9aps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH815YjP6tKibslC3NmWCcJacVP5OxI8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778246694692-5h3fmbv2ts2bnq9ij2pn6c7e324q9aps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
